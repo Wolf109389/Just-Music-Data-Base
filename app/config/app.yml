@@ -1,0 +1,6 @@
+database:
+  user: root
+  password: w0lf2Oo7
+  host: localhost
+  port: 3306
+  name: music_player_db
